@@ -1,3 +1,6 @@
+Below is a brief discussion about John Doe, a fictional boy in 12th standard who is building his first Flutter project, a static portfolio app.
+
+
 # John Doe's Portfolio
 
 Welcome to my demo portfolio! My name is **John Doe**, and I am currently learning Flutter app development. I have a passion for creating engaging applications and showcasing my skills in various programming languages.
@@ -24,16 +27,6 @@ In my free time, I enjoy a variety of activities that keep me engaged and entert
 
 Overall, I lead a simple life, finding joy in these activities while focusing on my studies.
 
-## Project Overview
-
-This portfolio showcases my skills and projects related to Flutter app development. You will find various applications I have created, each highlighting different features and functionalities of Flutter.
-
-### Features
-
-- Clean and responsive UI
-- Engaging user experience
-- Use of state management
-- Integration with APIs (where applicable)
 
 ## Getting Started
 
